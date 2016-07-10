@@ -1,4 +1,4 @@
-package com.sinndevelopment.msdnkeyparser;
+package com.sinndevelopment.msdnkeyimporter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
