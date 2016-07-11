@@ -47,7 +47,7 @@ public class ConfigReader
     }
     public String getPassword()
     {
-        return properties.getProperty("mysqlpassword", "pass");
+        return properties.getProperty("mysqlpass", "pass");
     }
     public String getDatabase()
     {
